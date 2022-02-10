@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ToDo-TypeScript/static/css/main.c3cac170.css",
-    "main.js": "/ToDo-TypeScript/static/js/main.edac739d.js",
+    "main.js": "/ToDo-TypeScript/static/js/main.7fbfdbec.js",
     "static/js/787.462c793e.chunk.js": "/ToDo-TypeScript/static/js/787.462c793e.chunk.js",
     "index.html": "/ToDo-TypeScript/index.html",
     "main.c3cac170.css.map": "/ToDo-TypeScript/static/css/main.c3cac170.css.map",
-    "main.edac739d.js.map": "/ToDo-TypeScript/static/js/main.edac739d.js.map",
+    "main.7fbfdbec.js.map": "/ToDo-TypeScript/static/js/main.7fbfdbec.js.map",
     "787.462c793e.chunk.js.map": "/ToDo-TypeScript/static/js/787.462c793e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3cac170.css",
-    "static/js/main.edac739d.js"
+    "static/js/main.7fbfdbec.js"
   ]
 }
